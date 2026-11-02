@@ -1,0 +1,9 @@
+排程研究室 GitHub Pages 上傳包
+
+1. 在 GitHub 建立 Public 儲存庫，名稱例如 scheduling-lab。
+2. 解壓此 ZIP，將 index.html、.nojekyll、assets 資料夾上傳到儲存庫最外層。不要上傳 ZIP 本身。
+3. Settings > Pages > Source: Deploy from a branch。Branch: main；Folder: /(root)；Save。
+4. 等待發布完成，於同一頁點 Visit site，將網址分享給同學。
+
+教材連結需要 assets 資料夾與原檔名，請保留。上傳內容將可由公開網站讀取。
+學習紀錄保留在各自瀏覽器，沒有中央成績資料庫。
